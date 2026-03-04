@@ -1,2 +1,2 @@
-# git_test
+# Odin_recipes
 “Hello Odin!”
